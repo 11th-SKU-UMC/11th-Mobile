@@ -1,9 +1,9 @@
-# 🌐 11th-Web  
-> 11th 서경대 **UMC PE-Web 파트 Repository** 입니다.  
+# 🤖 11th-Android
+> 11th 서경대 **UMC PE-Mobile 파트 Repository** 입니다.  
 
 <p>
   <img src="https://img.shields.io/badge/UMC-11th-6A5ACD?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Repository-PE%20Web%20Part-61DAFB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Repository-PE%20MOBILE%20Part-3DDC84?style=for-the-badge" />
 </p>
 
 <br>
